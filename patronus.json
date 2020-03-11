@@ -15,6 +15,10 @@
                     ["#5ac7d7","#5ac7d7","#a97c50","#5ac7d7","#5ac7d7"]
                 ],
 
+                "border":[
+                    []
+                ],
+
                 "clue":[
                     [1],[4],[4],[5],[2],[1],[4],[5],[3],[3]
                 ],
@@ -38,8 +42,14 @@
                     ["#f9b55c","#5dc7d6","#f9b55c","#5dc7d6","#5dc7d6"],
                     ["#f9b55c","#c39a6f","#f9b55c","#c39a6f","#c39a6f"]
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue":[
-                    [1,1],[1,1],[4],[2,1],[2],[4],[2],[3],[3],[1]               ],
+                    [1,1],[1,1],[4],[2,1],[2],[4],[2],[3],[3],[1]               
+                ],
                 
                 "frase" : "Epifanía. Los tres Reyes Magos" 
             },
@@ -60,6 +70,11 @@
                     ["#915ca6","#000000","#545453","#000000","#915ca6"]
 
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue":[
                     [1,1],[1,1],[5],[2,1],[2,1],[5],[3],[1],[1],[5]
                 ],
@@ -83,6 +98,11 @@
                     ["#FFFFFF","#7e4296","#FFFFFF","#FFFFFF","#FFFFFF"],
                     ["#7e4296","#FFFFFF","#7e4296","#FFFFFF","#FFFFFF"]
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue": [
                     [1,1], [1], [1,3], [1,1],[3],[1,1], [1],[3,1],[1,1],[3]
                 ],
@@ -105,6 +125,11 @@
                     ["#000000","#000000","#FFFFFF","#000000","#000000"],
                     ["#000000","#000000","#FFFFFF","#000000","#000000"]
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue": [
                     [2,2], [2,2],[1,1],[1,1],[4],[2],[5],[1],[1,2],[5]
                 ],
@@ -130,6 +155,11 @@
                     ["#FFFFFF","#050505","#FFFFFF","#050505","#FFFFFF"]
                     
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue": [
                     [1,1],[3],[5],[1,1,1],[5],[3],[1,3],[4],[1,3],[3]
                 ],
@@ -152,6 +182,11 @@
                     ["#FFFFFF","#ffdc39","#ffdc39","#ffdc39","#FFFFFF","#FFFFFF"],
                     ["#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF"]
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue":[
                     [0],[3],[2],[4],[3],[2],[4],[2,1],[2,1],[0]
                 ],
@@ -174,6 +209,11 @@
                     ["#FFFFFF","#1da79d","#1da79d","#1da79d","#FFFFFF"],
                     ["#FFFFFF","#FFFFFF","#24abdf","#FFFFFF","#FFFFFF"]
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue":[
                     [1],[3],[5],[3],[1],[1],[3],[5],[3],[1]
                 ],
@@ -196,6 +236,11 @@
                     ["#FFFFFF","#ea148c","#FFFFFF","#ea148c","#FFFFFF"],
                     ["#ea148c","#FFFFFF","#FFFFFF","#FFFFFF","#ea148c"]
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue":[
                     [1,1],[1,1],[1],[1,1],[1],[1],[1,1],[1,1],[1,1],[1]
                 ],
@@ -220,6 +265,11 @@
                     ["#f9c011","#dc5623","#8dd8f4","#dc5623","#f9c011"]
             
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue":[
                     [2,2],[3],[1,1],[3],[1],[1],[4],[2,2],[4],[1]
                 ],
@@ -245,12 +295,77 @@
                     ["#FFFFFF","#000000","#000000","#000000","#FFFFFF"]
             
                 ],
+
+                "border":[
+                    []
+                ],
+
                 "clue":[
                     [2,2],[3],[1,1],[3],[1],[1],[4],[2,2],[4],[1]
                 ],
 
 
-                "frase" : "Yuri Gagarin, cosmonauta ruso, primer hombre que viajó por el espacio. 21 de abril en 1961"
+                "frase" : "Día de la Clase Obrera Gallega, 10 de marzo"
+
+            },
+
+    "penicilina":{
+                "bn": [
+                    [1,0,0,0,1],
+                    [0,1,1,1,0],
+                    [0,1,1,1,0],
+                    [0,1,1,1,0],
+                    [1,0,0,0,1]
+                ],
+                "color": [
+                    ["#CF4384","#FFFFFF","#FFFFFF","#FFFFFF","#CF4384"],
+                    ["#FFFFFF","#74CEDF","#63CBE4","#74CEDF","#FFFFFF"],
+                    ["#FFFFFF","#63CBE4","#CF4384","#63CBE4","#FFFFFF"],
+                    ["#FFFFFF","#74CEDF","#63CBE4","#74CEDF","#FFFFFF"],
+                    ["#CF4384","#FFFFFF","#FFFFFF","#FFFFFF","#CF4384"]
+            
+                ],
+
+                "border":[
+                    []
+                ],
+                
+                "clue":[
+                    [1,1],[3],[3],[3],[1,1],[1,1],[3],[3],[3],[1,1]
+                ],
+
+
+                "frase" : " 11 marzo de 1955, fallece Alexander Fleming, biólogo y farmacólogo británico, descubridor de la lisozima y de la penicilina."
+
+            },
+
+        "lenotre":{
+                "bn": [
+                    [1,0,0,0,1],
+                    [0,1,1,1,0],
+                    [0,1,1,1,0],
+                    [0,1,1,1,0],
+                    [1,0,0,0,1]
+                ],
+                "color": [
+                    ["#099980","#FFFFFF","#FFFFFF","#FFFFFF","#CF4384"],
+                    ["#FFFFFF","#74CEDF","#63CBE4","#74CEDF","#FFFFFF"],
+                    ["#FFFFFF","#63CBE4","#CF4384","#63CBE4","#FFFFFF"],
+                    ["#FFFFFF","#74CEDF","#63CBE4","#74CEDF","#FFFFFF"],
+                    ["#CF4384","#FFFFFF","#FFFFFF","#FFFFFF","#CF4384"]
+            
+                ],
+
+                "border":[
+                    []
+                ],
+                
+                "clue":[
+                    [1,1],[3],[3],[3],[1,1],[1,1],[3],[3],[3],[1,1]
+                ],
+
+
+                "frase" : " 11 marzo de 1955, fallece Alexander Fleming, biólogo y farmacólogo británico, descubridor de la lisozima y de la penicilina."
 
             }
             
@@ -259,3 +374,4 @@
 
 }
     
+
