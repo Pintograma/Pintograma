@@ -5,6 +5,7 @@ fetch("./patronus.json")
   })
   .then(function(data){
     showGame(data)
+    console.log(data);
   });
   //2a llamada a API desde el botón juego nuevo
   $("#new-button").click(function() {
