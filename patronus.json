@@ -301,7 +301,7 @@
                 ],
 
                 "clue":[
-                    [2,2],[3],[1,1],[3],[1],[1],[4],[2,2],[4],[1]
+                    [1,1],[3],[3],[1,2],[1,1],[2,1],[2],[3],[3],[1,1]
                 ],
 
 
@@ -341,18 +341,18 @@
 
         "lenotre":{
                 "bn": [
+                    [0,0,1,0,0],
                     [1,0,0,0,1],
                     [0,1,1,1,0],
-                    [0,1,1,1,0],
-                    [0,1,1,1,0],
+                    [1,0,0,0,1],
                     [1,0,0,0,1]
                 ],
                 "color": [
-                    ["#099980","#FFFFFF","#FFFFFF","#FFFFFF","#CF4384"],
-                    ["#FFFFFF","#74CEDF","#63CBE4","#74CEDF","#FFFFFF"],
-                    ["#FFFFFF","#63CBE4","#CF4384","#63CBE4","#FFFFFF"],
-                    ["#FFFFFF","#74CEDF","#63CBE4","#74CEDF","#FFFFFF"],
-                    ["#CF4384","#FFFFFF","#FFFFFF","#FFFFFF","#CF4384"]
+                    ["#B8D657","#B8D657","#4AB864","#B8D657","#B8D657"],
+                    ["#38A7C0","#B8D657","#B8D657","#B8D657","#38A7C0"],
+                    ["#B8D657","#38A7C0","#38A7C0","#38A7C0","#B8D657"],
+                    ["#B7B74A","#B8D657","#B8D657","#B8D657","#B7B74A"],
+                    ["#B7B74A","#B8D657","#B8D657","#B8D657","#B7B74A"]
             
                 ],
 
@@ -361,11 +361,11 @@
                 ],
                 
                 "clue":[
-                    [1,1],[3],[3],[3],[1,1],[1,1],[3],[3],[3],[1,1]
+                    [1,1],[1,1],[3],[1,1],[1],[1,2],[1],[1,1],[1],[1,2]
                 ],
 
 
-                "frase" : " 11 marzo de 1955, fallece Alexander Fleming, biólogo y farmacólogo británico, descubridor de la lisozima y de la penicilina."
+                "frase" : " André Le Nôtre (París, 12 de marzo de 1613-ibídem, 15 de septiembre de 1700) fue jardinero del rey Luis XIV desde 1645 hasta 1700, cuando se encargó de diseñar los jardines del palacio de Versalles, del palacio de Vaux-le-Vicomte y de Chantilly."
 
             }
             
