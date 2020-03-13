@@ -373,7 +373,7 @@
                 "bn": [
                     [0,0,0,0,0],
                     [0,0,0,0,1],
-                    [1,1,1,1,1],
+                    [0,0,0,0,1],
                     [1,1,1,1,1],
                     [1,1,0,1,1]
                 ],
@@ -395,7 +395,7 @@
                 ],
 
 
-                "frase" : "13 marzo 1861.- Inauguración del ferrocarril de Sevilla a Cádiz."
+                "frase" : "13 marzo 1861. Inauguración del ferrocarril de Sevilla a Cádiz."
 
             }
 
