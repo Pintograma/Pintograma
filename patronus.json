@@ -365,9 +365,43 @@
                 ],
 
 
-                "frase" : " 12 de marzo. Aniversario nacimiento de André Le Nôtre (París en 1613) Jardinero del rey Luis XIV. Se encargó de diseñar los jardines del palacio de Versalles, del palacio de Vaux-le-Vicomte y de Chantilly."
+                "frase" : " 12 de marzo. Aniversario nacimiento de André Le Nôtre (París en 1613) Jardinero del rey Luis XIV. Aquí esquema del jardín del palacio de Vaux-le-Vicomte, que inspiró al de Versalles."
+
+            },
+
+     "ferrocarril":{
+                "bn": [
+                    [0,0,0,0,0],
+                    [0,0,0,0,1],
+                    [1,1,1,1,1],
+                    [1,1,1,1,1],
+                    [1,1,0,1,1]
+                ],
+                "color": [
+                    ["#B1E1F0","#B1E1F0","#B1E1F0","#B1E1F0","#B1E1F0"],
+                    ["#B1E1F0","#B1E1F0","#B1E1F0","#B1E1F0","#000033"],
+                    ["#FFDE17","#FFDE17","#FFDE17","#FFDE17","#000033"],
+                    ["#ED1C24","#ED1C24","#ED1C24","#ED1C24","#ED1C24"],
+                    ["#000033","#000033","#98A6AA","#000033","#000033"]
+            
+                ],
+
+                "border":[
+                    []
+                ],
+                
+                "clue":[
+                    [2,2],[5],[1],[1],[0],[2],[2],[1],[2],[4]
+                ],
+
+
+                "frase" : "13 marzo 1861.- Inauguración del ferrocarril de Sevilla a Cádiz."
 
             }
+
+
+
+           
             
 
 
