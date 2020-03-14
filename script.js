@@ -33,7 +33,7 @@ fetch("./patronus.json")
     
     //Random para elegir el patrón o dibujo del tablero que se muestra para jugar
     let a = (Object.keys(data));
-    let picRandom = Math.floor(Math.random (a)*14);
+    let picRandom = Math.floor(Math.random (a)*15);
     let b = a[picRandom]
     console.log(b);
   
