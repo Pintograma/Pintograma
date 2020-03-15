@@ -61,6 +61,7 @@
     height: max-content;
     max-width: 300px;
     border:  rgb(236, 236, 236) solid 4px;
+    background-color: rgb(236, 236, 236);
 }
 
 .row-container{
